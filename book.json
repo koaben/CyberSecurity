@@ -1,0 +1,17 @@
+{
+    "gitbook": "3.0.x",
+    "plugins": [
+        "edit-link@2.0.x",
+        "github@2.0.x"
+    ],
+    "pluginsConfig": {
+            "edit-link": {
+                "base": "http://localhost/?open=F:/ns/ansible/ansible-deployments/",
+                "base1": "https://github.com/leucos/ansible-tuto/tree/writing",
+                "label": "Edit"
+            },
+            "github": {
+                "url": "https://github.com/leucos/ansible-tuto"
+            }
+    }
+}
