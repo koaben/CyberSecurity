@@ -1,7 +1,6 @@
 # Tips for preparing for teaching 
 - pdf files are located in pdf directory
-- markdown fles are best viewed via jekyll server (install ruby)
-
+- markdown files can be viewed via jekyll server (install ruby) or via gitbook (install npm)
 
 # Cyber Security
 ### A curriculum for a high school cyber security course.
